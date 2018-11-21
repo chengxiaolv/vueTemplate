@@ -28,7 +28,7 @@ npm test
 ```
 
 ```
-# 这是vue + router + template的模板
+# 这是vue + router + element-ui   的项目模板 
 ```
 
 For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
